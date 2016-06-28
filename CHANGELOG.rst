@@ -2,7 +2,7 @@
 Changelog for package moveit_ikfast
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-3.1.1 (2016-06-28)
+3.2.0 (2016-06-28)
 ------------------
 * [feat] added ik_seed_state argument to the getPositionIK method. added support for redundancy sampling
 * [feat] Random Sampling uses the joint discretization to determine how many samples to generate
@@ -12,7 +12,7 @@ Changelog for package moveit_ikfast
 * [sys][CI] Update Travis config to run on Ubuntu 14.04. `#64 <https://github.com/ros-planning/moveit_ikfast/issues/64>`_
 * [enhance] Reduce INFO output at initialization `#44 <https://github.com/ros-planning/moveit_ikfast/issues/44>`_
 * [doc] Updated README
-* Contributors: Dave Coleman, G.A. vd. Hoorn, Isaac I.Y. Saito, Martin Guenther, gavanderhoorn, jrgnicho, simonschmeisser
+* Contributors: Dave Coleman, G.A. vd. Hoorn, Isaac I.Y. Saito, Jonathan Meyer, Martin Guenther, gavanderhoorn, jrgnicho, simonschmeisser
 
 3.1.0 (2014-10-07)
 ------------------
